@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](https://github.com/alexvillhen/fylo-landing-page-with-two-column-layout-/blob/main/Screenshot.png?raw=true)
 
 
 ### Links
